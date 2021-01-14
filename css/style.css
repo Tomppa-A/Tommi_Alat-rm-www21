@@ -12,3 +12,13 @@ a:hover
 {
     color:black;
 }
+
+.floatright
+{
+    float: right;
+    width: 350px;
+    font-size: larger;
+    font-style: italic;
+}
+
+
